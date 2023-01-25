@@ -1,0 +1,21 @@
+table{
+    border: red 1px solid;
+}
+
+td.t1{
+    border: 0px;
+}
+
+td.t2{
+    border: blue 3px solid;
+}
+
+table.t3{
+    border: green 1px solid;
+}
+
+td.t3{
+    border: green 1px solid;
+    width: 150px;
+    text-align: center;
+}
